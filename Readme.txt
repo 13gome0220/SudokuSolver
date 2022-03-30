@@ -1,0 +1,1 @@
+Solved all 400 board sudoku boards in 79 minutes.
